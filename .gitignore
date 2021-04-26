@@ -1,5 +1,4 @@
-dataset
-__pycache__
-.ipynb_checkpoints
-settings.py
+
+weight2.hdf5
+weight1.hdf5
 weight.hdf5
