@@ -3,3 +3,7 @@ weight2.hdf5
 weight1.hdf5
 weight.hdf5
 weight3.hdf5
+weight01.hdf5
+tools/__pycache__/train_val_test_spliter.cpython-38.pyc
+tools/__pycache__/settings.cpython-38.pyc
+tools/__pycache__/__init__.cpython-38.pyc
