@@ -1,5 +1,5 @@
 Pre-Trained Models,Score
-VGG-16,99
-Inception-V3,98
-ResNet50,60
-MobileNetV2,90
+VGG-16,92.68
+Inception-V3,88.61
+ResNet50,68.29
+MobileNetV2,91.05
