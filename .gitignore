@@ -8,3 +8,4 @@ tools/__pycache__/train_val_test_spliter.cpython-38.pyc
 tools/__pycache__/settings.cpython-38.pyc
 tools/__pycache__/__init__.cpython-38.pyc
 weight05.hdf5
+weight06.hdf5
