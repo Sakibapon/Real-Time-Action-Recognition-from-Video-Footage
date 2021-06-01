@@ -1,0 +1,6 @@
+Pre-Trained Models,Score
+Xception,91.86
+VGG-16,92.68
+Inception-V3,88.61
+ResNet50,68.29
+MobileNetV2,91.05
